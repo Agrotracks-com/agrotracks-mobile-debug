@@ -3,9 +3,19 @@
 Este repositorio publica APKs de debug para pruebas internas (testers).
 
 ## Descarga
-Los APKs se encuentran en la sección Releases.
-Siempre descarga el release debug-latest para obtener la versión más reciente.
 
-## Notas
-- Uso exclusivo para pruebas.
-- No usar en producción.
+Los APKs se encuentran en la sección **Releases** de este repositorio.
+
+Siempre descarga el **último release** para obtener la versión más reciente de la aplicación.
+
+### 📲 Descarga directa (última versión)
+
+También puedes descargar directamente la última versión desde el siguiente enlace:
+
+https://github.com/Agrotracks-com/agrotracks-mobile-debug/releases/latest/download/agrotrackmobile-fastapi-debug.apk
+
+### 📌 Nota
+
+- El código QR utilizado por el equipo apunta a esta misma URL.
+- Este enlace siempre descarga automáticamente la versión más reciente disponible.
+- Si necesitas una versión específica, puedes acceder a la sección **Releases** y seleccionar el tag correspondiente (por ejemplo: `d1.13.0`).
