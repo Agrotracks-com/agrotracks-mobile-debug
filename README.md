@@ -19,7 +19,7 @@ https://github.com/Agrotracks-com/agrotracks-mobile-debug/releases/latest/downlo
 Escanea el siguiente código QR desde tu dispositivo móvil para descargar automáticamente la última versión disponible del APK:
 
 <p align="center">
-  <img src="./docs/qr-debug-apk.png"
+  <img src="./docs/qr_agrotracks_mobile_debug_apk.png"
        alt="QR AgroTracks Mobile Debug"
        width="300">
 </p>
