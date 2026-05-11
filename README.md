@@ -14,6 +14,16 @@ También puedes descargar directamente la última versión desde el siguiente en
 
 https://github.com/Agrotracks-com/agrotracks-mobile-debug/releases/latest/download/agrotrackmobile-fastapi-debug.apk
 
+### 📱 Código QR
+
+Escanea el siguiente código QR desde tu dispositivo móvil para descargar automáticamente la última versión disponible del APK:
+
+<p align="center">
+  <img src="./docs/qr-debug-apk.png"
+       alt="QR AgroTracks Mobile Debug"
+       width="300">
+</p>
+
 ### 📌 Nota
 
 - El código QR utilizado por el equipo apunta a esta misma URL.
