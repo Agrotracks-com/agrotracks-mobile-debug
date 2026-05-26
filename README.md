@@ -12,7 +12,7 @@ Siempre descarga el **último release** para obtener la versión más reciente d
 
 También puedes descargar directamente la última versión desde el siguiente enlace:
 
-https://github.com/Agrotracks-com/agrotracks-mobile-debug/releases/download/debug-latest/agrotrackmobile-fastapi-debug.apk
+https://github.com/Agrotracks-com/agrotracks-mobile-debug/releases/latest/download/agrotrackmobile-fastapi-debug.apk
 
 ### 📱 Código QR
 
